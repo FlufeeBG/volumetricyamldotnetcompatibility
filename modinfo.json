@@ -1,0 +1,12 @@
+{
+    "type": "code",
+    "modid": "volumetricyamldotnetcompatibility",
+    "name": "Volumetric Shading (ReUpdated)",
+    "authors": [ "xxmicloxx", "Novocain", "krami", "Th3Dilli", "DaimeneX", "Flufee" ],
+    "description": "Adds multiple shader changes to the game. (Unofficial update of a Continuation)",
+    "version": "0.7.5",
+    "side":  "Client",
+    "dependency": {
+        "game": ""
+    }
+}
